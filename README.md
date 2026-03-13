@@ -6,7 +6,6 @@ Effortless Branch Creation: With just a few simple commands, users can create br
 
 Data-Efficient Workflow: Our tool employs a unique approach that eliminates the need for extra storage. Instead of copying data during branching, it creates symbolic links to the actual data directory. This means that developers can seamlessly access data from these symbolic links without incurring additional storage overhead.
 
-![image](https://github.com/ChistaDATA/Branching-Tool/assets/46593013/4de75edd-08ee-4701-a59b-f0207676f6d1)
 
 
 ### Installation Pre-request
